@@ -1,0 +1,1 @@
+{"version": "0.1", "dependencies": [], "url": "about:blank", "platforms": ["*"], "sublime_text": "*", "description": "Syntax highlighting tmLanguage for `.conkyrc` files. Use with Sublime Text or TextMate."}

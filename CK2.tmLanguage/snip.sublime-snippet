@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[If it go]]></content>
+    <tabTrigger>blecke</tabTrigger>
+    <description>if … else</description>
+    <scope>source.txt</scope>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <!-- <tabTrigger>hello</tabTrigger> -->
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
